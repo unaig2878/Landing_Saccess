@@ -1,0 +1,36 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/personalizada.jpg"
+    title: "Enfoque Personalizado"
+    text: "Descubre nuestra dedicación al control de acceso para empresas. Enfocados en la total adaptabilidad a las necesidades específicas de cada cliente, ofrecemos soluciones a medida con un servicio cercano que marca la diferencia. Tu seguridad, nuestra prioridad."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/excepcional.jpg"
+    title: "Servicio Excepciona"
+    text: "Experimenta la excelencia en control de acceso con nuestro servicio personalizado y cercano. Nos comprometemos a brindarte más que una solución; te ofrecemos una experiencia de seguridad inigualable, adaptada a tus necesidades específicas. Tu tranquilidad, nuestro compromiso."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/seguridad.jpg"
+    title: "Seguridad Excepcional"
+    text: "Descubre la excelencia en control de acceso con nuestro servicio excepcional. Garantizamos una seguridad excepcional, adaptada a tus necesidades específicas. Confía en nosotros para proteger lo que más importa."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"

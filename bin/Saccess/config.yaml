@@ -1,0 +1,66 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Saccess"
+  description: "Siguenos en nuestras redes sociales"
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#3fa140"
+    backgroundColor: "#3fa140"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Avenida del mar 10 Orihuela Alicante 03189"
+
+  contact:
+    - "info@saccess.com"
+    - "666 666 666"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Contacto"
+      url: "/#footer"
+      weight: 2
+    
+
+  buttons:
+    - name: "Iniciar Sesión"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "9:00-14:00"
+      url: "/#hero"
+      weight: 1
+
+    - name: "16:00-22:00"
+      url: "/#"
+      weight: 2
+
+    -
+
+taxonomies:
+  series: "series"
+  tags: "tags"

@@ -1,0 +1,16 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "El **Software** de acceso para tu empresa"
+  text: "Nos destacamos por ofrecer soluciones especializadas en el control de acceso para empresas "
+
+  buttonPrimary:
+    label: "Como Trabajamos"
+    url: "#"
+
+  buttonSecondary:
+    label: "Contactanos"
+    url: ""
+    
+

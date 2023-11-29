@@ -1,0 +1,28 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Nuestros Servicios Principales"
+  text: "Somos especialistas en sistemas de control de acceso avanzados, utilizando tecnologías como códigos QR, RFID y NFC. Nuestra misión es proporcionar soluciones de seguridad innovadoras y confiables para tu empresa."
+
+  cards:
+    - image: "images/qr.jpg"
+      title: "Control de Acceso mediante Códigos QR"
+      text: "Implementamos sistemas seguros y eficientes de control de acceso utilizando códigos QR. Garantizamos un acceso rápido y fácil para tu personal autorizado."
+      button:
+        label: "Saber más"
+        url: "#"
+
+    - image: "images/rfid.jpg"
+      title: "Control de Acceso con RFID"
+      text: "Ofrecemos soluciones de control de acceso mediante tarjetas RFID. Proporcionamos un método conveniente y seguro para garantizar la entrada solo a aquellos con permisos adecuados."
+      button:
+        label: "Saber más"
+        url: "#"
+
+    - image: "images/nfc-44.jpg"
+      title: "Control de Acceso con NFC"
+      text: "Integramos la tecnología NFC para sistemas de control de acceso que requieren proximidad. La comodidad de un toque para una entrada rápida y segura."
+      button:
+        label: "Saber más"
+        url: "#"
