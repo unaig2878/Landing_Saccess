@@ -9,7 +9,7 @@
           <h3 class="hero-title fw-bold display-1 text-primary text-center text-xl-start pb-4">{{ . | markdownify }}</h3>
         {{ end }}
         {{ with .content.text }}
-          <p class="text-center text-black-61 text-xl-start pb-4">{{ . | markdownify }}</p>
+          <h4 class="text-center text-black-61 text-xl-start pb-4">{{ . | markdownify }}</h4>
         {{ end }}
         <div class="d-flex flex-column flex-xl-row">
           {{ with .content.buttonPrimary }}
