@@ -7,10 +7,10 @@ content:
 
   buttonPrimary:
     label: "Como Trabajamos"
-    url: "#"
+    url: "#portfolio"
 
   buttonSecondary:
     label: "Contactanos"
-    url: ""
+    url: "#footer"
     
 
